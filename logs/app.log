@@ -1,0 +1,1293 @@
+2025-04-26 19:36:48 - HV000001: Hibernate Validator 7.0.1.Final
+2025-04-26 19:36:48 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 9724 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 19:36:48 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 19:36:48 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-26 19:36:48 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-26 19:36:49 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-26 19:36:49 - Finished Spring Data repository scanning in 70 ms. Found 1 JPA repository interface.
+2025-04-26 19:36:50 - Tomcat initialized with port 7070 (http)
+2025-04-26 19:36:50 - Initializing ProtocolHandler ["http-nio-7070"]
+2025-04-26 19:36:50 - Starting service [Tomcat]
+2025-04-26 19:36:50 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-26 19:36:50 - Initializing Spring embedded WebApplicationContext
+2025-04-26 19:36:50 - Root WebApplicationContext: initialization completed in 1915 ms
+2025-04-26 19:36:50 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-26 19:36:50 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-04-26 19:36:50 - HHH000026: Second-level cache disabled
+2025-04-26 19:36:50 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-26 19:36:50 - HikariPool-1 - Starting...
+2025-04-26 19:36:51 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3fb8aad0
+2025-04-26 19:36:51 - HikariPool-1 - Start completed.
+2025-04-26 19:36:51 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-26 19:36:52 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-26 19:36:52 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 19:36:52 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-26 19:36:53 - LiveReload server is running on port 35729
+2025-04-26 19:36:53 - Starting ProtocolHandler ["http-nio-7070"]
+2025-04-26 19:36:53 - Tomcat started on port 7070 (http) with context path '/'
+2025-04-26 19:36:53 - Started IncidentLogApiApplication in 5.688 seconds (process running for 6.647)
+2025-04-26 19:38:13 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-26 19:38:13 - Initializing Servlet 'dispatcherServlet'
+2025-04-26 19:38:13 - Completed initialization in 2 ms
+2025-04-26 19:38:13 - Fetching all incidents
+2025-04-26 19:38:14 - 4 incidents found.
+2025-04-26 19:39:21 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-26 19:39:21 - Graceful shutdown complete
+2025-04-26 19:39:21 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 19:39:21 - HikariPool-1 - Shutdown initiated...
+2025-04-26 19:39:22 - HikariPool-1 - Shutdown completed.
+2025-04-26 19:43:41 - HV000001: Hibernate Validator 7.0.1.Final
+2025-04-26 19:43:41 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 15940 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 19:43:41 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 19:43:41 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-26 19:43:41 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-26 19:43:42 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-26 19:43:42 - Finished Spring Data repository scanning in 40 ms. Found 1 JPA repository interface.
+2025-04-26 19:43:42 - Tomcat initialized with port 7070 (http)
+2025-04-26 19:43:42 - Initializing ProtocolHandler ["http-nio-7070"]
+2025-04-26 19:43:42 - Starting service [Tomcat]
+2025-04-26 19:43:42 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-26 19:43:42 - Initializing Spring embedded WebApplicationContext
+2025-04-26 19:43:42 - Root WebApplicationContext: initialization completed in 1225 ms
+2025-04-26 19:43:42 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-26 19:43:42 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-04-26 19:43:42 - HHH000026: Second-level cache disabled
+2025-04-26 19:43:43 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-26 19:43:43 - HikariPool-1 - Starting...
+2025-04-26 19:43:43 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3f0ad005
+2025-04-26 19:43:43 - HikariPool-1 - Start completed.
+2025-04-26 19:43:43 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-26 19:43:44 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-26 19:43:44 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 19:43:44 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-26 19:43:44 - LiveReload server is running on port 35729
+2025-04-26 19:43:44 - Starting ProtocolHandler ["http-nio-7070"]
+2025-04-26 19:43:44 - Tomcat started on port 7070 (http) with context path '/'
+2025-04-26 19:43:44 - Started IncidentLogApiApplication in 4.09 seconds (process running for 4.973)
+2025-04-26 19:43:55 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-26 19:43:55 - Initializing Servlet 'dispatcherServlet'
+2025-04-26 19:43:55 - Completed initialization in 1 ms
+2025-04-26 19:43:55 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource swagger-ui.]
+2025-04-26 19:43:55 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource favicon.ico.]
+2025-04-26 19:45:47 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-26 19:45:47 - Graceful shutdown complete
+2025-04-26 19:45:47 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 19:45:47 - HikariPool-1 - Shutdown initiated...
+2025-04-26 19:45:47 - HikariPool-1 - Shutdown completed.
+2025-04-26 19:46:41 - HV000001: Hibernate Validator 7.0.1.Final
+2025-04-26 19:46:41 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 13532 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 19:46:41 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 19:46:41 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-26 19:46:41 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-26 19:46:42 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-26 19:46:42 - Finished Spring Data repository scanning in 40 ms. Found 1 JPA repository interface.
+2025-04-26 19:46:42 - Tomcat initialized with port 7070 (http)
+2025-04-26 19:46:42 - Initializing ProtocolHandler ["http-nio-7070"]
+2025-04-26 19:46:42 - Starting service [Tomcat]
+2025-04-26 19:46:42 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-26 19:46:42 - Initializing Spring embedded WebApplicationContext
+2025-04-26 19:46:42 - Root WebApplicationContext: initialization completed in 1280 ms
+2025-04-26 19:46:42 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-26 19:46:43 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-04-26 19:46:43 - HHH000026: Second-level cache disabled
+2025-04-26 19:46:43 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-26 19:46:43 - HikariPool-1 - Starting...
+2025-04-26 19:46:43 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2a75a38a
+2025-04-26 19:46:43 - HikariPool-1 - Start completed.
+2025-04-26 19:46:43 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-26 19:46:44 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-26 19:46:44 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 19:46:44 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-26 19:46:45 - LiveReload server is running on port 35729
+2025-04-26 19:46:45 - Starting ProtocolHandler ["http-nio-7070"]
+2025-04-26 19:46:45 - Tomcat started on port 7070 (http) with context path '/'
+2025-04-26 19:46:45 - Started IncidentLogApiApplication in 4.439 seconds (process running for 5.321)
+2025-04-26 19:46:54 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-26 19:46:54 - Initializing Servlet 'dispatcherServlet'
+2025-04-26 19:46:54 - Completed initialization in 0 ms
+2025-04-26 19:46:54 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource swagger-ui.]
+2025-04-26 19:46:54 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource favicon.ico.]
+2025-04-26 19:46:59 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource swagger-ui.]
+2025-04-26 19:47:00 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource favicon.ico.]
+2025-04-26 19:48:43 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-26 19:48:43 - Graceful shutdown complete
+2025-04-26 19:48:43 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 19:48:43 - HikariPool-1 - Shutdown initiated...
+2025-04-26 19:48:43 - HikariPool-1 - Shutdown completed.
+2025-04-26 19:49:03 - HV000001: Hibernate Validator 7.0.1.Final
+2025-04-26 19:49:03 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 9840 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 19:49:03 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 19:49:03 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-26 19:49:03 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-26 19:49:04 - Exception encountered during context initialization - cancelling refresh attempt: java.lang.TypeNotPresentException: Type javax.servlet.http.HttpServletRequest not present
+2025-04-26 19:49:04 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-04-26 19:49:04 - Application run failed
+java.lang.TypeNotPresentException: Type javax.servlet.http.HttpServletRequest not present
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:116)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:125)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.generics.visitor.Reifier.reifyTypeArguments(Reifier.java:68)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:138)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.generics.repository.ClassRepository.computeSuperInterfaces(ClassRepository.java:117)
+	at java.base/sun.reflect.generics.repository.ClassRepository.getSuperInterfaces(ClassRepository.java:95)
+	at java.base/java.lang.Class.getGenericInterfaces(Class.java:1385)
+	at org.springframework.core.ResolvableType.getInterfaces(ResolvableType.java:553)
+	at org.springframework.core.ResolvableType.as(ResolvableType.java:501)
+	at org.springframework.core.ResolvableType.forClass(ResolvableType.java:1157)
+	at org.springframework.plugin.core.config.PluginRegistriesBeanDefinitionRegistrar.getTargetType(PluginRegistriesBeanDefinitionRegistrar.java:101)
+	at org.springframework.plugin.core.config.PluginRegistriesBeanDefinitionRegistrar.registerBeanDefinitions(PluginRegistriesBeanDefinitionRegistrar.java:71)
+	at org.springframework.context.annotation.ImportBeanDefinitionRegistrar.registerBeanDefinitions(ImportBeanDefinitionRegistrar.java:86)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.lambda$loadBeanDefinitionsFromRegistrars$1(ConfigurationClassBeanDefinitionReader.java:397)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:987)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsFromRegistrars(ConfigurationClassBeanDefinitionReader.java:396)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForConfigurationClass(ConfigurationClassBeanDefinitionReader.java:149)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitions(ConfigurationClassBeanDefinitionReader.java:121)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:430)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:290)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:349)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:118)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:791)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:609)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:753)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1362)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1351)
+	at com.humanchain.incidents.IncidentLogApiApplication.main(IncidentLogApiApplication.java:10)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
+Caused by: java.lang.ClassNotFoundException: javax.servlet.http.HttpServletRequest
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:528)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:578)
+	at java.base/java.lang.Class.forName(Class.java:557)
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:113)
+	... 35 common frames omitted
+2025-04-26 19:50:29 - HV000001: Hibernate Validator 7.0.1.Final
+2025-04-26 19:50:29 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 10856 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 19:50:29 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 19:50:29 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-26 19:50:29 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-26 19:50:30 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-26 19:50:30 - Finished Spring Data repository scanning in 41 ms. Found 1 JPA repository interface.
+2025-04-26 19:50:31 - Tomcat initialized with port 7070 (http)
+2025-04-26 19:50:31 - Initializing ProtocolHandler ["http-nio-7070"]
+2025-04-26 19:50:31 - Starting service [Tomcat]
+2025-04-26 19:50:31 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-26 19:50:31 - Initializing Spring embedded WebApplicationContext
+2025-04-26 19:50:31 - Root WebApplicationContext: initialization completed in 1463 ms
+2025-04-26 19:50:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-26 19:50:31 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-04-26 19:50:31 - HHH000026: Second-level cache disabled
+2025-04-26 19:50:31 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-26 19:50:31 - HikariPool-1 - Starting...
+2025-04-26 19:50:32 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6e953712
+2025-04-26 19:50:32 - HikariPool-1 - Start completed.
+2025-04-26 19:50:32 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-26 19:50:32 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-26 19:50:32 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 19:50:33 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-26 19:50:33 - LiveReload server is running on port 35729
+2025-04-26 19:50:33 - Starting ProtocolHandler ["http-nio-7070"]
+2025-04-26 19:50:33 - Tomcat started on port 7070 (http) with context path '/'
+2025-04-26 19:50:33 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-26 19:50:33 - Pausing ProtocolHandler ["http-nio-7070"]
+2025-04-26 19:50:33 - Graceful shutdown complete
+2025-04-26 19:50:33 - Stopping ProtocolHandler ["http-nio-7070"]
+2025-04-26 19:50:33 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'documentationPluginsBootstrapper'
+2025-04-26 19:50:33 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 19:50:33 - HikariPool-1 - Shutdown initiated...
+2025-04-26 19:50:33 - HikariPool-1 - Shutdown completed.
+2025-04-26 19:50:33 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-04-26 19:50:33 - Application run failed
+org.springframework.context.ApplicationContextException: Failed to start bean 'documentationPluginsBootstrapper'
+	at org.springframework.context.support.DefaultLifecycleProcessor.doStart(DefaultLifecycleProcessor.java:408)
+	at org.springframework.context.support.DefaultLifecycleProcessor.doStart(DefaultLifecycleProcessor.java:394)
+	at org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup.start(DefaultLifecycleProcessor.java:586)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.context.support.DefaultLifecycleProcessor.startBeans(DefaultLifecycleProcessor.java:364)
+	at org.springframework.context.support.DefaultLifecycleProcessor.onRefresh(DefaultLifecycleProcessor.java:310)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:1006)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:630)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:753)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1362)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1351)
+	at com.humanchain.incidents.IncidentLogApiApplication.main(IncidentLogApiApplication.java:10)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
+Caused by: java.lang.NullPointerException: Cannot invoke "org.springframework.web.servlet.mvc.condition.PatternsRequestCondition.getPatterns()" because "this.condition" is null
+	at springfox.documentation.spring.web.WebMvcPatternsRequestConditionWrapper.getPatterns(WebMvcPatternsRequestConditionWrapper.java:56)
+	at springfox.documentation.RequestHandler.sortedPaths(RequestHandler.java:113)
+	at springfox.documentation.spi.service.contexts.Orderings.lambda$byPatternsCondition$3(Orderings.java:89)
+	at java.base/java.util.Comparator.lambda$comparing$77a9974f$1(Comparator.java:473)
+	at java.base/java.util.TimSort.countRunAndMakeAscending(TimSort.java:355)
+	at java.base/java.util.TimSort.sort(TimSort.java:220)
+	at java.base/java.util.Arrays.sort(Arrays.java:1307)
+	at java.base/java.util.ArrayList.sort(ArrayList.java:1805)
+	at java.base/java.util.stream.SortedOps$RefSortingSink.end(SortedOps.java:392)
+	at java.base/java.util.stream.Sink$ChainedReference.end(Sink.java:261)
+	at java.base/java.util.stream.ReferencePipeline$7$1FlatMap.end(ReferencePipeline.java:285)
+	at java.base/java.util.stream.Sink$ChainedReference.end(Sink.java:261)
+	at java.base/java.util.stream.Sink$ChainedReference.end(Sink.java:261)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:571)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:560)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:265)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:727)
+	at springfox.documentation.spring.web.plugins.WebMvcRequestHandlerProvider.requestHandlers(WebMvcRequestHandlerProvider.java:81)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:215)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1709)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:570)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:560)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:265)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:727)
+	at springfox.documentation.spring.web.plugins.AbstractDocumentationPluginsBootstrapper.withDefaults(AbstractDocumentationPluginsBootstrapper.java:107)
+	at springfox.documentation.spring.web.plugins.AbstractDocumentationPluginsBootstrapper.buildContext(AbstractDocumentationPluginsBootstrapper.java:91)
+	at springfox.documentation.spring.web.plugins.AbstractDocumentationPluginsBootstrapper.bootstrapDocumentationPlugins(AbstractDocumentationPluginsBootstrapper.java:82)
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper.start(DocumentationPluginsBootstrapper.java:100)
+	at org.springframework.context.support.DefaultLifecycleProcessor.doStart(DefaultLifecycleProcessor.java:405)
+	... 17 common frames omitted
+2025-04-26 19:51:28 - HV000001: Hibernate Validator 7.0.1.Final
+2025-04-26 19:51:28 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 10056 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 19:51:28 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 19:51:28 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-26 19:51:28 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-26 19:51:29 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-26 19:51:29 - Finished Spring Data repository scanning in 49 ms. Found 1 JPA repository interface.
+2025-04-26 19:51:29 - Tomcat initialized with port 7070 (http)
+2025-04-26 19:51:29 - Initializing ProtocolHandler ["http-nio-7070"]
+2025-04-26 19:51:29 - Starting service [Tomcat]
+2025-04-26 19:51:29 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-26 19:51:29 - Initializing Spring embedded WebApplicationContext
+2025-04-26 19:51:29 - Root WebApplicationContext: initialization completed in 1291 ms
+2025-04-26 19:51:30 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-26 19:51:30 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-04-26 19:51:30 - HHH000026: Second-level cache disabled
+2025-04-26 19:51:30 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-26 19:51:30 - HikariPool-1 - Starting...
+2025-04-26 19:51:30 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3f6a84ee
+2025-04-26 19:51:30 - HikariPool-1 - Start completed.
+2025-04-26 19:51:30 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-26 19:51:31 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-26 19:51:31 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 19:51:31 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-26 19:51:32 - LiveReload server is running on port 35729
+2025-04-26 19:51:32 - Starting ProtocolHandler ["http-nio-7070"]
+2025-04-26 19:51:32 - Tomcat started on port 7070 (http) with context path '/'
+2025-04-26 19:51:32 - Started IncidentLogApiApplication in 4.291 seconds (process running for 5.2)
+2025-04-26 19:51:51 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-26 19:51:51 - Initializing Servlet 'dispatcherServlet'
+2025-04-26 19:51:51 - Completed initialization in 0 ms
+2025-04-26 19:51:51 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource swagger-ui/index.html.]
+2025-04-26 19:51:51 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource favicon.ico.]
+2025-04-26 19:53:12 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-26 19:53:12 - Graceful shutdown complete
+2025-04-26 19:53:12 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 19:53:12 - HikariPool-1 - Shutdown initiated...
+2025-04-26 19:53:12 - HikariPool-1 - Shutdown completed.
+2025-04-26 19:55:26 - HV000001: Hibernate Validator 7.0.1.Final
+2025-04-26 19:55:26 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 25160 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 19:55:26 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 19:55:26 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-26 19:55:26 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-26 19:55:27 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-26 19:55:27 - Finished Spring Data repository scanning in 114 ms. Found 1 JPA repository interface.
+2025-04-26 19:55:28 - Tomcat initialized with port 7070 (http)
+2025-04-26 19:55:28 - Initializing ProtocolHandler ["http-nio-7070"]
+2025-04-26 19:55:28 - Starting service [Tomcat]
+2025-04-26 19:55:28 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-26 19:55:28 - Initializing Spring embedded WebApplicationContext
+2025-04-26 19:55:28 - Root WebApplicationContext: initialization completed in 2082 ms
+2025-04-26 19:55:28 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-26 19:55:28 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-04-26 19:55:28 - HHH000026: Second-level cache disabled
+2025-04-26 19:55:29 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-26 19:55:29 - HikariPool-1 - Starting...
+2025-04-26 19:55:29 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@25d36b3e
+2025-04-26 19:55:29 - HikariPool-1 - Start completed.
+2025-04-26 19:55:29 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-26 19:55:30 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-26 19:55:30 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 19:55:30 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-26 19:55:30 - LiveReload server is running on port 35729
+2025-04-26 19:55:30 - Starting ProtocolHandler ["http-nio-7070"]
+2025-04-26 19:55:30 - Tomcat started on port 7070 (http) with context path '/'
+2025-04-26 19:55:30 - Started IncidentLogApiApplication in 5.147 seconds (process running for 6.118)
+2025-04-26 19:55:36 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-26 19:55:36 - Graceful shutdown complete
+2025-04-26 19:55:36 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 19:55:36 - HikariPool-1 - Shutdown initiated...
+2025-04-26 19:55:36 - HikariPool-1 - Shutdown completed.
+2025-04-26 19:58:45 - HV000001: Hibernate Validator 7.0.1.Final
+2025-04-26 19:58:45 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 17504 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 19:58:45 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 19:58:45 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-26 19:58:45 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-26 19:58:46 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-26 19:58:46 - Finished Spring Data repository scanning in 38 ms. Found 1 JPA repository interface.
+2025-04-26 19:58:46 - Tomcat initialized with port 7070 (http)
+2025-04-26 19:58:46 - Initializing ProtocolHandler ["http-nio-7070"]
+2025-04-26 19:58:46 - Starting service [Tomcat]
+2025-04-26 19:58:46 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-26 19:58:46 - Initializing Spring embedded WebApplicationContext
+2025-04-26 19:58:46 - Root WebApplicationContext: initialization completed in 1224 ms
+2025-04-26 19:58:46 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-26 19:58:46 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-04-26 19:58:46 - HHH000026: Second-level cache disabled
+2025-04-26 19:58:47 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-26 19:58:47 - HikariPool-1 - Starting...
+2025-04-26 19:58:47 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4c41278b
+2025-04-26 19:58:47 - HikariPool-1 - Start completed.
+2025-04-26 19:58:47 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-26 19:58:48 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-26 19:58:48 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 19:58:48 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-26 19:58:49 - LiveReload server is running on port 35729
+2025-04-26 19:58:49 - Starting ProtocolHandler ["http-nio-7070"]
+2025-04-26 19:58:49 - Tomcat started on port 7070 (http) with context path '/'
+2025-04-26 19:58:49 - Started IncidentLogApiApplication in 4.53 seconds (process running for 5.506)
+2025-04-26 19:58:55 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-26 19:58:55 - Initializing Servlet 'dispatcherServlet'
+2025-04-26 19:58:55 - Completed initialization in 1 ms
+2025-04-26 19:58:55 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource swagger-ui/index.html.]
+2025-04-26 19:58:55 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource favicon.ico.]
+2025-04-26 19:59:45 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-26 19:59:45 - Graceful shutdown complete
+2025-04-26 19:59:45 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 19:59:45 - HikariPool-1 - Shutdown initiated...
+2025-04-26 19:59:45 - HikariPool-1 - Shutdown completed.
+2025-04-26 20:01:52 - HV000001: Hibernate Validator 7.0.1.Final
+2025-04-26 20:01:53 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 17816 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 20:01:53 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 20:01:53 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-26 20:01:53 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-26 20:01:53 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-26 20:01:54 - Finished Spring Data repository scanning in 36 ms. Found 1 JPA repository interface.
+2025-04-26 20:01:54 - Tomcat initialized with port 7070 (http)
+2025-04-26 20:01:54 - Initializing ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:01:54 - Starting service [Tomcat]
+2025-04-26 20:01:54 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-26 20:01:54 - Initializing Spring embedded WebApplicationContext
+2025-04-26 20:01:54 - Root WebApplicationContext: initialization completed in 1343 ms
+2025-04-26 20:01:54 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-26 20:01:54 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-04-26 20:01:54 - HHH000026: Second-level cache disabled
+2025-04-26 20:01:54 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-26 20:01:54 - HikariPool-1 - Starting...
+2025-04-26 20:01:55 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5ae38c88
+2025-04-26 20:01:55 - HikariPool-1 - Start completed.
+2025-04-26 20:01:55 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-26 20:01:56 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-26 20:01:56 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:01:56 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-26 20:01:56 - LiveReload server is running on port 35729
+2025-04-26 20:01:56 - Starting ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:01:56 - Tomcat started on port 7070 (http) with context path '/'
+2025-04-26 20:01:56 - Started IncidentLogApiApplication in 4.369 seconds (process running for 5.566)
+2025-04-26 20:02:19 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-26 20:02:19 - Initializing Servlet 'dispatcherServlet'
+2025-04-26 20:02:19 - Completed initialization in 0 ms
+2025-04-26 20:02:21 - Resolved [jakarta.servlet.ServletException: Handler dispatch failed: java.lang.NoSuchMethodError: 'void org.springframework.web.method.ControllerAdviceBean.<init>(java.lang.Object)']
+2025-04-26 20:06:31 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-26 20:06:31 - Graceful shutdown complete
+2025-04-26 20:06:31 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:06:31 - HikariPool-1 - Shutdown initiated...
+2025-04-26 20:06:31 - HikariPool-1 - Shutdown completed.
+2025-04-26 20:06:34 - HV000001: Hibernate Validator 7.0.1.Final
+2025-04-26 20:06:34 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 9912 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 20:06:34 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 20:06:34 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-26 20:06:34 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-26 20:06:35 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-26 20:06:35 - Finished Spring Data repository scanning in 52 ms. Found 1 JPA repository interface.
+2025-04-26 20:06:35 - Tomcat initialized with port 7070 (http)
+2025-04-26 20:06:35 - Initializing ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:06:35 - Starting service [Tomcat]
+2025-04-26 20:06:35 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-26 20:06:35 - Initializing Spring embedded WebApplicationContext
+2025-04-26 20:06:35 - Root WebApplicationContext: initialization completed in 1424 ms
+2025-04-26 20:06:35 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-26 20:06:35 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-04-26 20:06:35 - HHH000026: Second-level cache disabled
+2025-04-26 20:06:36 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-26 20:06:36 - HikariPool-1 - Starting...
+2025-04-26 20:06:36 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@47ff3512
+2025-04-26 20:06:36 - HikariPool-1 - Start completed.
+2025-04-26 20:06:36 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-26 20:06:37 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-26 20:06:37 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:06:37 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-26 20:06:38 - LiveReload server is running on port 35729
+2025-04-26 20:06:38 - Starting ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:06:38 - Tomcat started on port 7070 (http) with context path '/'
+2025-04-26 20:06:38 - Started IncidentLogApiApplication in 4.511 seconds (process running for 5.52)
+2025-04-26 20:07:00 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-26 20:07:00 - Initializing Servlet 'dispatcherServlet'
+2025-04-26 20:07:00 - Completed initialization in 14 ms
+2025-04-26 20:07:02 - Resolved [jakarta.servlet.ServletException: Handler dispatch failed: java.lang.NoSuchMethodError: 'void org.springframework.web.method.ControllerAdviceBean.<init>(java.lang.Object)']
+2025-04-26 20:07:08 - Resolved [jakarta.servlet.ServletException: Handler dispatch failed: java.lang.NoSuchMethodError: 'void org.springframework.web.method.ControllerAdviceBean.<init>(java.lang.Object)']
+2025-04-26 20:09:19 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-26 20:09:19 - Graceful shutdown complete
+2025-04-26 20:09:19 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:09:19 - HikariPool-1 - Shutdown initiated...
+2025-04-26 20:09:19 - HikariPool-1 - Shutdown completed.
+2025-04-26 20:26:21 - HV000001: Hibernate Validator 7.0.1.Final
+2025-04-26 20:26:21 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 19000 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 20:26:21 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 20:26:21 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-26 20:26:21 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-26 20:26:22 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-26 20:26:22 - Finished Spring Data repository scanning in 40 ms. Found 1 JPA repository interface.
+2025-04-26 20:26:23 - Tomcat initialized with port 7070 (http)
+2025-04-26 20:26:23 - Initializing ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:26:23 - Starting service [Tomcat]
+2025-04-26 20:26:23 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-26 20:26:23 - Initializing Spring embedded WebApplicationContext
+2025-04-26 20:26:23 - Root WebApplicationContext: initialization completed in 1316 ms
+2025-04-26 20:26:23 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-26 20:26:23 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-04-26 20:26:23 - HHH000026: Second-level cache disabled
+2025-04-26 20:26:23 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-26 20:26:23 - HikariPool-1 - Starting...
+2025-04-26 20:26:24 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7fff4b31
+2025-04-26 20:26:24 - HikariPool-1 - Start completed.
+2025-04-26 20:26:24 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-26 20:26:24 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-26 20:26:24 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:26:25 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-26 20:26:25 - LiveReload server is running on port 35729
+2025-04-26 20:26:25 - Starting ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:26:25 - Tomcat started on port 7070 (http) with context path '/'
+2025-04-26 20:26:25 - Started IncidentLogApiApplication in 4.394 seconds (process running for 5.453)
+2025-04-26 20:26:38 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-26 20:26:38 - Initializing Servlet 'dispatcherServlet'
+2025-04-26 20:26:38 - Completed initialization in 0 ms
+2025-04-26 20:26:39 - Resolved [jakarta.servlet.ServletException: Handler dispatch failed: java.lang.NoSuchMethodError: 'void org.springframework.web.method.ControllerAdviceBean.<init>(java.lang.Object)']
+2025-04-26 20:30:46 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-26 20:30:46 - Graceful shutdown complete
+2025-04-26 20:30:46 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:30:46 - HikariPool-1 - Shutdown initiated...
+2025-04-26 20:30:46 - HikariPool-1 - Shutdown completed.
+2025-04-26 20:31:29 - HV000001: Hibernate Validator 7.0.1.Final
+2025-04-26 20:31:29 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 26248 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 20:31:29 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 20:31:29 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-26 20:31:29 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-26 20:31:30 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-26 20:31:30 - Finished Spring Data repository scanning in 36 ms. Found 1 JPA repository interface.
+2025-04-26 20:31:31 - Tomcat initialized with port 7070 (http)
+2025-04-26 20:31:31 - Initializing ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:31:31 - Starting service [Tomcat]
+2025-04-26 20:31:31 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-26 20:31:31 - Initializing Spring embedded WebApplicationContext
+2025-04-26 20:31:31 - Root WebApplicationContext: initialization completed in 1370 ms
+2025-04-26 20:31:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-26 20:31:31 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-04-26 20:31:31 - HHH000026: Second-level cache disabled
+2025-04-26 20:31:31 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-26 20:31:31 - HikariPool-1 - Starting...
+2025-04-26 20:31:32 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2c5c9b30
+2025-04-26 20:31:32 - HikariPool-1 - Start completed.
+2025-04-26 20:31:32 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-26 20:31:32 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-26 20:31:33 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:31:33 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-26 20:31:33 - LiveReload server is running on port 35729
+2025-04-26 20:31:33 - Starting ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:31:33 - Tomcat started on port 7070 (http) with context path '/'
+2025-04-26 20:31:33 - Started IncidentLogApiApplication in 4.348 seconds (process running for 5.332)
+2025-04-26 20:32:24 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-26 20:32:25 - Initializing Servlet 'dispatcherServlet'
+2025-04-26 20:32:25 - Completed initialization in 0 ms
+2025-04-26 20:32:25 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource .]
+2025-04-26 20:32:25 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource favicon.ico.]
+2025-04-26 20:32:33 - Fetching all incidents
+2025-04-26 20:32:33 - 4 incidents found.
+2025-04-26 20:32:33 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource favicon.ico.]
+2025-04-26 20:32:58 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/incident.]
+2025-04-26 20:32:58 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource favicon.ico.]
+2025-04-26 20:33:03 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/incidents.]
+2025-04-26 20:33:03 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource favicon.ico.]
+2025-04-26 20:34:24 - Fetching all incidents
+2025-04-26 20:34:24 - 4 incidents found.
+2025-04-26 20:34:24 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource favicon.ico.]
+2025-04-26 20:34:41 - Resolved [jakarta.servlet.ServletException: Handler dispatch failed: java.lang.NoSuchMethodError: 'void org.springframework.web.method.ControllerAdviceBean.<init>(java.lang.Object)']
+2025-04-26 20:36:19 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-26 20:36:19 - Graceful shutdown complete
+2025-04-26 20:36:19 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:36:19 - HikariPool-1 - Shutdown initiated...
+2025-04-26 20:36:19 - HikariPool-1 - Shutdown completed.
+2025-04-26 20:36:31 - HV000001: Hibernate Validator 7.0.1.Final
+2025-04-26 20:36:31 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 10064 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 20:36:31 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 20:36:31 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-26 20:36:31 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-26 20:36:32 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-26 20:36:32 - Finished Spring Data repository scanning in 39 ms. Found 1 JPA repository interface.
+2025-04-26 20:36:33 - Tomcat initialized with port 7070 (http)
+2025-04-26 20:36:33 - Initializing ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:36:33 - Starting service [Tomcat]
+2025-04-26 20:36:33 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-26 20:36:33 - Initializing Spring embedded WebApplicationContext
+2025-04-26 20:36:33 - Root WebApplicationContext: initialization completed in 1343 ms
+2025-04-26 20:36:33 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-26 20:36:33 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-04-26 20:36:33 - HHH000026: Second-level cache disabled
+2025-04-26 20:36:33 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-26 20:36:33 - HikariPool-1 - Starting...
+2025-04-26 20:36:34 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@18f370c9
+2025-04-26 20:36:34 - HikariPool-1 - Start completed.
+2025-04-26 20:36:34 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-26 20:36:34 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-26 20:36:34 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:36:35 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-26 20:36:35 - LiveReload server is running on port 35729
+2025-04-26 20:36:35 - Starting ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:36:35 - Tomcat started on port 7070 (http) with context path '/'
+2025-04-26 20:36:35 - Started IncidentLogApiApplication in 4.388 seconds (process running for 5.223)
+2025-04-26 20:36:50 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-26 20:36:50 - Initializing Servlet 'dispatcherServlet'
+2025-04-26 20:36:50 - Completed initialization in 16 ms
+2025-04-26 20:36:51 - Resolved [jakarta.servlet.ServletException: Handler dispatch failed: java.lang.NoSuchMethodError: 'void org.springframework.web.method.ControllerAdviceBean.<init>(java.lang.Object)']
+2025-04-26 20:36:56 - Resolved [jakarta.servlet.ServletException: Handler dispatch failed: java.lang.NoSuchMethodError: 'void org.springframework.web.method.ControllerAdviceBean.<init>(java.lang.Object)']
+2025-04-26 20:37:09 - Fetching all incidents
+2025-04-26 20:37:09 - 4 incidents found.
+2025-04-26 20:37:28 - Resolved [jakarta.servlet.ServletException: Handler dispatch failed: java.lang.NoSuchMethodError: 'void org.springframework.web.method.ControllerAdviceBean.<init>(java.lang.Object)']
+2025-04-26 20:39:45 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-04-26 20:39:45 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-26 20:39:45 - Pausing ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:39:45 - Graceful shutdown complete
+2025-04-26 20:39:45 - Stopping ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:39:45 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:39:45 - HikariPool-1 - Shutdown initiated...
+2025-04-26 20:39:45 - HikariPool-1 - Shutdown completed.
+2025-04-26 20:39:45 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 10064 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 20:39:45 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 20:39:46 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-26 20:39:46 - Finished Spring Data repository scanning in 11 ms. Found 1 JPA repository interface.
+2025-04-26 20:39:46 - Tomcat initialized with port 7070 (http)
+2025-04-26 20:39:46 - Initializing ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:39:46 - Starting service [Tomcat]
+2025-04-26 20:39:46 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-26 20:39:46 - Initializing Spring embedded WebApplicationContext
+2025-04-26 20:39:46 - Root WebApplicationContext: initialization completed in 445 ms
+2025-04-26 20:39:46 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-26 20:39:46 - HHH000026: Second-level cache disabled
+2025-04-26 20:39:46 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-26 20:39:46 - HikariPool-2 - Starting...
+2025-04-26 20:39:46 - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7a233ae0
+2025-04-26 20:39:46 - HikariPool-2 - Start completed.
+2025-04-26 20:39:46 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-2)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-26 20:39:46 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-26 20:39:46 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:39:46 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-26 20:39:46 - 12 mappings in 'requestMappingHandlerMapping'
+2025-04-26 20:39:46 - Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+2025-04-26 20:39:46 - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-26 20:39:46 - ControllerAdvice beans: 2 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-26 20:39:46 - LiveReload server is running on port 35729
+2025-04-26 20:39:46 - Starting ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:39:46 - Tomcat started on port 7070 (http) with context path '/'
+2025-04-26 20:39:46 - Started IncidentLogApiApplication in 0.98 seconds (process running for 196.264)
+2025-04-26 20:39:46 - Condition evaluation unchanged
+2025-04-26 20:40:12 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-26 20:40:12 - Graceful shutdown complete
+2025-04-26 20:40:12 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:40:12 - HikariPool-2 - Shutdown initiated...
+2025-04-26 20:40:12 - HikariPool-2 - Shutdown completed.
+2025-04-26 20:40:15 - HV000001: Hibernate Validator 7.0.1.Final
+2025-04-26 20:40:15 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 5104 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 20:40:15 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 20:40:15 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-26 20:40:15 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-26 20:40:16 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-26 20:40:16 - Finished Spring Data repository scanning in 35 ms. Found 1 JPA repository interface.
+2025-04-26 20:40:16 - Tomcat initialized with port 7070 (http)
+2025-04-26 20:40:16 - Initializing ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:40:16 - Starting service [Tomcat]
+2025-04-26 20:40:16 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-26 20:40:16 - Initializing Spring embedded WebApplicationContext
+2025-04-26 20:40:16 - Root WebApplicationContext: initialization completed in 1294 ms
+2025-04-26 20:40:17 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-26 20:40:17 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-04-26 20:40:17 - HHH000026: Second-level cache disabled
+2025-04-26 20:40:17 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-26 20:40:17 - HikariPool-1 - Starting...
+2025-04-26 20:40:17 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@dd29bd0
+2025-04-26 20:40:17 - HikariPool-1 - Start completed.
+2025-04-26 20:40:17 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-26 20:40:18 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-26 20:40:18 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:40:18 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-26 20:40:18 - 8 mappings in 'requestMappingHandlerMapping'
+2025-04-26 20:40:19 - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-04-26 20:40:19 - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-26 20:40:19 - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-26 20:40:19 - LiveReload server is running on port 35729
+2025-04-26 20:40:19 - Starting ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:40:19 - Tomcat started on port 7070 (http) with context path '/'
+2025-04-26 20:40:19 - Started IncidentLogApiApplication in 4.247 seconds (process running for 5.086)
+2025-04-26 20:40:32 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-26 20:40:32 - Initializing Servlet 'dispatcherServlet'
+2025-04-26 20:40:32 - Detected StandardServletMultipartResolver
+2025-04-26 20:40:32 - Detected AcceptHeaderLocaleResolver
+2025-04-26 20:40:32 - Detected FixedThemeResolver
+2025-04-26 20:40:32 - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@241ae433
+2025-04-26 20:40:32 - Detected org.springframework.web.servlet.support.SessionFlashMapManager@63a4d22d
+2025-04-26 20:40:32 - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-04-26 20:40:32 - Completed initialization in 0 ms
+2025-04-26 20:40:32 - GET "/v3/api-docs", parameters={}
+2025-04-26 20:40:32 - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-04-26 20:40:32 - Resource not found
+2025-04-26 20:40:32 - Using @ExceptionHandler com.humanchain.incidents.exception.GlobalExceptionHandler#handleGenericException(Exception)
+2025-04-26 20:40:32 - Using 'application/json;q=0.8', given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, */*;q=0.8, application/signed-exchange;v=b3;q=0.7] and supported [application/json, application/*+json, application/yaml]
+2025-04-26 20:40:32 - Writing [{error=No static resource v3/api-docs.}]
+2025-04-26 20:40:32 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource v3/api-docs.]
+2025-04-26 20:40:32 - Completed 500 INTERNAL_SERVER_ERROR
+2025-04-26 20:40:32 - GET "/favicon.ico", parameters={}
+2025-04-26 20:40:32 - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-04-26 20:40:32 - Resource not found
+2025-04-26 20:40:32 - Using @ExceptionHandler com.humanchain.incidents.exception.GlobalExceptionHandler#handleGenericException(Exception)
+2025-04-26 20:40:32 - Using 'application/json;q=0.8', given [image/avif, image/webp, image/apng, image/svg+xml, image/*, */*;q=0.8] and supported [application/json, application/*+json, application/yaml]
+2025-04-26 20:40:32 - Writing [{error=No static resource favicon.ico.}]
+2025-04-26 20:40:32 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource favicon.ico.]
+2025-04-26 20:40:32 - Completed 500 INTERNAL_SERVER_ERROR
+2025-04-26 20:41:20 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-04-26 20:41:20 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-26 20:41:20 - Pausing ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:41:20 - Graceful shutdown complete
+2025-04-26 20:41:20 - Stopping ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:41:20 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:41:20 - HikariPool-1 - Shutdown initiated...
+2025-04-26 20:41:20 - HikariPool-1 - Shutdown completed.
+2025-04-26 20:41:21 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 5104 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 20:41:21 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 20:41:21 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-26 20:41:21 - Finished Spring Data repository scanning in 9 ms. Found 1 JPA repository interface.
+2025-04-26 20:41:21 - Tomcat initialized with port 7070 (http)
+2025-04-26 20:41:21 - Initializing ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:41:21 - Starting service [Tomcat]
+2025-04-26 20:41:21 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-26 20:41:21 - Initializing Spring embedded WebApplicationContext
+2025-04-26 20:41:21 - Root WebApplicationContext: initialization completed in 456 ms
+2025-04-26 20:41:21 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-26 20:41:21 - HHH000026: Second-level cache disabled
+2025-04-26 20:41:21 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-26 20:41:21 - HikariPool-2 - Starting...
+2025-04-26 20:41:21 - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@b847560
+2025-04-26 20:41:21 - HikariPool-2 - Start completed.
+2025-04-26 20:41:21 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-2)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-26 20:41:21 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-26 20:41:21 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:41:21 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-26 20:41:21 - 12 mappings in 'requestMappingHandlerMapping'
+2025-04-26 20:41:21 - Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+2025-04-26 20:41:21 - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-26 20:41:21 - ControllerAdvice beans: 2 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-26 20:41:22 - LiveReload server is running on port 35729
+2025-04-26 20:41:22 - Starting ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:41:22 - Tomcat started on port 7070 (http) with context path '/'
+2025-04-26 20:41:22 - Started IncidentLogApiApplication in 1.019 seconds (process running for 67.902)
+2025-04-26 20:41:22 - Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+   SpringDocConfigProperties matched:
+      - @ConditionalOnProperty (springdoc.api-docs.enabled) matched (OnPropertyCondition)
+      - @ConditionalOnBean (types: org.springdoc.core.configuration.SpringDocConfiguration; SearchStrategy: all) found bean 'org.springdoc.core.configuration.SpringDocConfiguration' (OnBeanCondition)
+
+   SpringDocConfiguration matched:
+      - @ConditionalOnWebApplication (required) found 'session' scope (OnWebApplicationCondition)
+      - @ConditionalOnProperty (springdoc.api-docs.enabled) matched (OnPropertyCondition)
+
+   SpringDocConfiguration#fileSupportConverter matched:
+      - @ConditionalOnMissingBean (types: org.springdoc.core.converters.FileSupportConverter; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SpringDocConfiguration#objectMapperProvider matched:
+      - @ConditionalOnMissingBean (types: org.springdoc.core.providers.ObjectMapperProvider; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SpringDocConfiguration#openAPIBuilder matched:
+      - @ConditionalOnMissingBean (types: org.springdoc.core.service.OpenAPIService; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SpringDocConfiguration#operationBuilder matched:
+      - @ConditionalOnMissingBean (types: org.springdoc.core.service.OperationService; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SpringDocConfiguration#parameterBuilder matched:
+      - @ConditionalOnMissingBean (types: org.springdoc.core.service.GenericParameterService; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SpringDocConfiguration#polymorphicModelConverter matched:
+      - @ConditionalOnProperty (springdoc.model-converters.polymorphic-converter.enabled) matched (OnPropertyCondition)
+      - @ConditionalOnMissingBean (types: org.springdoc.core.converters.PolymorphicModelConverter; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SpringDocConfiguration#requestBodyBuilder matched:
+      - @ConditionalOnMissingBean (types: org.springdoc.core.service.RequestBodyService; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SpringDocConfiguration#responseSupportConverter matched:
+      - @ConditionalOnMissingBean (types: org.springdoc.core.converters.ResponseSupportConverter; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SpringDocConfiguration#schemaPropertyDeprecatingConverter matched:
+      - @ConditionalOnProperty (springdoc.model-converters.deprecating-converter.enabled) matched (OnPropertyCondition)
+      - @ConditionalOnMissingBean (types: org.springdoc.core.converters.SchemaPropertyDeprecatingConverter; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SpringDocConfiguration#securityParser matched:
+      - @ConditionalOnMissingBean (types: org.springdoc.core.service.SecurityService; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SpringDocConfiguration#springDocCustomizers matched:
+      - @ConditionalOnMissingBean (types: org.springdoc.core.customizers.SpringDocCustomizers; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SpringDocConfiguration#springDocProviders matched:
+      - @ConditionalOnMissingBean (types: org.springdoc.core.providers.SpringDocProviders; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SpringDocConfiguration.SpringDocSpringDataWebPropertiesProvider matched:
+      - @ConditionalOnClass found required class 'org.springframework.boot.autoconfigure.data.web.SpringDataWebProperties' (OnClassCondition)
+
+   SpringDocConfiguration.SpringDocSpringDataWebPropertiesProvider#springDataWebPropertiesProvider matched:
+      - @ConditionalOnMissingBean (types: org.springdoc.core.providers.SpringDataWebPropertiesProvider; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SpringDocConfiguration.WebConversionServiceConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.boot.autoconfigure.web.format.WebConversionService' (OnClassCondition)
+
+   SpringDocPageableConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.data.domain.Pageable' (OnClassCondition)
+      - @ConditionalOnWebApplication (required) found 'session' scope (OnWebApplicationCondition)
+      - @ConditionalOnProperty (springdoc.api-docs.enabled) matched (OnPropertyCondition)
+      - @ConditionalOnBean (types: org.springdoc.core.configuration.SpringDocConfiguration; SearchStrategy: all) found bean 'org.springdoc.core.configuration.SpringDocConfiguration' (OnBeanCondition)
+
+   SpringDocPageableConfiguration#delegatingMethodParameterCustomizer matched:
+      - @ConditionalOnMissingBean (types: org.springdoc.core.customizers.DelegatingMethodParameterCustomizer; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SpringDocPageableConfiguration#pageableOpenAPIConverter matched:
+      - @ConditionalOnProperty (springdoc.model-converters.pageable-converter.enabled) matched (OnPropertyCondition)
+      - @ConditionalOnMissingBean (types: org.springdoc.core.converters.PageableOpenAPIConverter; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SpringDocSortConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.data.domain.Sort' (OnClassCondition)
+      - @ConditionalOnWebApplication (required) found 'session' scope (OnWebApplicationCondition)
+      - @ConditionalOnProperty (springdoc.api-docs.enabled) matched (OnPropertyCondition)
+      - @ConditionalOnBean (types: org.springdoc.core.configuration.SpringDocConfiguration; SearchStrategy: all) found bean 'org.springdoc.core.configuration.SpringDocConfiguration' (OnBeanCondition)
+
+   SpringDocSortConfiguration#sortOpenAPIConverter matched:
+      - @ConditionalOnProperty (springdoc.model-converters.sort-converter.enabled) matched (OnPropertyCondition)
+      - @ConditionalOnMissingBean (types: org.springdoc.core.converters.SortOpenAPIConverter; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SpringDocUIConfiguration matched:
+      - @ConditionalOnWebApplication (required) found 'session' scope (OnWebApplicationCondition)
+      - @ConditionalOnExpression (#{${springdoc.api-docs.enabled:true}}) resulted in true (OnExpressionCondition)
+      - @ConditionalOnBean (types: org.springdoc.core.configuration.SpringDocConfiguration; SearchStrategy: all) found bean 'org.springdoc.core.configuration.SpringDocConfiguration' (OnBeanCondition)
+
+   SpringDocWebMvcConfiguration matched:
+      - found 'session' scope (OnWebApplicationCondition)
+      - @ConditionalOnProperty (springdoc.api-docs.enabled) matched (OnPropertyCondition)
+      - @ConditionalOnBean (types: org.springdoc.core.configuration.SpringDocConfiguration; SearchStrategy: all) found bean 'org.springdoc.core.configuration.SpringDocConfiguration' (OnBeanCondition)
+
+   SpringDocWebMvcConfiguration#openApiResource matched:
+      - @ConditionalOnProperty (springdoc.use-management-port=false) matched (OnPropertyCondition)
+      - @ConditionalOnMissingBean (types: org.springdoc.webmvc.api.OpenApiWebMvcResource; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SpringDocWebMvcConfiguration#requestBuilder matched:
+      - @ConditionalOnMissingBean (types: org.springdoc.webmvc.core.service.RequestService; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SpringDocWebMvcConfiguration#responseBuilder matched:
+      - @ConditionalOnMissingBean (types: org.springdoc.core.service.GenericResponseService; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SpringDocWebMvcConfiguration#springWebProvider matched:
+      - @ConditionalOnMissingBean (types: org.springdoc.core.providers.SpringWebProvider; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SpringDocWebMvcConfiguration.SpringDocWebMvcRouterConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.web.servlet.function.RouterFunction' (OnClassCondition)
+
+   SpringDocWebMvcConfiguration.SpringDocWebMvcRouterConfiguration#routerFunctionProvider matched:
+      - @ConditionalOnMissingBean (types: org.springdoc.webmvc.core.providers.RouterFunctionWebMvcProvider; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SwaggerConfig matched:
+      - found 'session' scope (OnWebApplicationCondition)
+      - @ConditionalOnProperty (springdoc.swagger-ui.enabled) matched (OnPropertyCondition)
+      - @ConditionalOnBean (types: org.springdoc.core.configuration.SpringDocConfiguration; SearchStrategy: all) found bean 'org.springdoc.core.configuration.SpringDocConfiguration' (OnBeanCondition)
+
+   SwaggerConfig#indexPageTransformer matched:
+      - @ConditionalOnMissingBean (types: org.springdoc.webmvc.ui.SwaggerIndexTransformer; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SwaggerConfig#swaggerConfigResource matched:
+      - @ConditionalOnProperty (springdoc.use-management-port=false) matched (OnPropertyCondition)
+      - @ConditionalOnMissingBean (types: org.springdoc.webmvc.ui.SwaggerConfigResource; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SwaggerConfig#swaggerResourceResolver matched:
+      - @ConditionalOnMissingBean (types: org.springdoc.webmvc.ui.SwaggerResourceResolver; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SwaggerConfig#swaggerWebMvcConfigurer matched:
+      - @ConditionalOnMissingBean (types: org.springdoc.webmvc.ui.SwaggerWebMvcConfigurer; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SwaggerConfig#swaggerWelcome matched:
+      - @ConditionalOnProperty (springdoc.use-management-port=false) matched (OnPropertyCondition)
+      - @ConditionalOnMissingBean (types: org.springdoc.webmvc.ui.SwaggerWelcomeWebMvc; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   SwaggerUiConfigParameters matched:
+      - @ConditionalOnProperty (springdoc.swagger-ui.enabled) matched (OnPropertyCondition)
+      - @ConditionalOnBean (types: org.springdoc.core.configuration.SpringDocConfiguration; SearchStrategy: all) found bean 'org.springdoc.core.configuration.SpringDocConfiguration' (OnBeanCondition)
+
+   SwaggerUiConfigProperties matched:
+      - @ConditionalOnProperty (springdoc.swagger-ui.enabled) matched (OnPropertyCondition)
+      - @ConditionalOnBean (types: org.springdoc.core.configuration.SpringDocConfiguration; SearchStrategy: all) found bean 'org.springdoc.core.configuration.SpringDocConfiguration' (OnBeanCondition)
+
+   SwaggerUiOAuthProperties matched:
+      - @ConditionalOnProperty (springdoc.swagger-ui.enabled) matched (OnPropertyCondition)
+      - @ConditionalOnBean (types: org.springdoc.core.configuration.SpringDocConfiguration; SearchStrategy: all) found bean 'org.springdoc.core.configuration.SpringDocConfiguration' (OnBeanCondition)
+
+
+Negative matches:
+-----------------
+
+   MultipleOpenApiSupportConfiguration.SpringDocWebMvcActuatorDifferentConfiguration:
+      Did not match:
+         - @ConditionalOnClass did not find required class 'org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping' (OnClassCondition)
+         - Ancestor org.springdoc.webmvc.core.configuration.MultipleOpenApiSupportConfiguration did not match (ConditionEvaluationReport.AncestorsMatchedCondition)
+
+   SpringDocConfiguration#propertiesResolverForSchema:
+      Did not match:
+         - @ConditionalOnProperty (springdoc.api-docs.resolve-schema-properties) did not find property 'springdoc.api-docs.resolve-schema-properties' (OnPropertyCondition)
+
+   SpringDocConfiguration#propertyCustomizingConverter:
+      Did not match:
+         - @ConditionalOnBean (types: org.springdoc.core.customizers.PropertyCustomizer; SearchStrategy: all) did not find any beans of type org.springdoc.core.customizers.PropertyCustomizer (OnBeanCondition)
+
+   SpringDocConfiguration#springdocBeanFactoryPostProcessor:
+      Did not match:
+         - AnyNestedCondition 0 matched 2 did not; NestedCondition on CacheOrGroupedOpenApiCondition.OnCacheDisabled found non-matching nested conditions @ConditionalOnProperty (springdoc.cache.disabled) did not find property 'springdoc.cache.disabled'; NestedCondition on CacheOrGroupedOpenApiCondition.OnMultipleOpenApiSupportCondition AnyNestedCondition 0 matched 2 did not; NestedCondition on MultipleOpenApiSupportCondition.OnActuatorDifferentPort @ConditionalOnProperty (springdoc.show-actuator) did not find property 'springdoc.show-actuator'; NestedCondition on MultipleOpenApiSupportCondition.OnMultipleOpenApiSupportCondition AnyNestedCondition 0 matched 2 did not; NestedCondition on MultipleOpenApiGroupsCondition.OnGroupConfigProperty @ConditionalOnProperty (springdoc.group-configs[0].group) did not find property 'springdoc.group-configs[0].group'; NestedCondition on MultipleOpenApiGroupsCondition.OnGroupedOpenApiBean @ConditionalOnBean (types: org.springdoc.core.models.GroupedOpenApi; SearchStrategy: all) did not find any beans of type org.springdoc.core.models.GroupedOpenApi (CacheOrGroupedOpenApiCondition)
+      Matched:
+         - @ConditionalOnClass found required class 'org.springframework.boot.context.properties.bind.BindResult' (OnClassCondition)
+
+   SpringDocConfiguration#springdocBeanFactoryPostProcessor2:
+      Did not match:
+         - @ConditionalOnMissingClass found unwanted class 'org.springframework.boot.context.properties.bind.BindResult' (OnClassCondition)
+
+   SpringDocConfiguration.SpringDocActuatorConfiguration:
+      Did not match:
+         - @ConditionalOnClass did not find required class 'org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointProperties' (OnClassCondition)
+
+   SpringDocConfiguration.SpringDocRepositoryRestConfiguration:
+      Did not match:
+         - @ConditionalOnClass did not find required class 'org.springframework.data.rest.core.config.RepositoryRestConfiguration' (OnClassCondition)
+
+   SpringDocConfiguration.SpringDocWebFluxSupportConfiguration:
+      Did not match:
+         - @ConditionalOnClass did not find required class 'reactor.core.publisher.Flux' (OnClassCondition)
+
+   SpringDocSortConfiguration#delegatingMethodParameterCustomizer:
+      Did not match:
+         - @ConditionalOnMissingBean (types: org.springdoc.core.customizers.DelegatingMethodParameterCustomizer; SearchStrategy: all) found beans of type 'org.springdoc.core.customizers.DelegatingMethodParameterCustomizer' delegatingMethodParameterCustomizer (OnBeanCondition)
+
+   SpringDocWebMvcConfiguration.SpringDocWebMvcActuatorConfiguration:
+      Did not match:
+         - @ConditionalOnClass did not find required class 'org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping' (OnClassCondition)
+
+   SwaggerConfig#springWebProvider:
+      Did not match:
+         - @ConditionalOnMissingBean (types: org.springdoc.core.providers.SpringWebProvider; SearchStrategy: all) found beans of type 'org.springdoc.core.providers.SpringWebProvider' springWebProvider (OnBeanCondition)
+
+   SwaggerConfig#swaggerUiConfigParameters:
+      Did not match:
+         - @ConditionalOnMissingBean (types: org.springdoc.core.properties.SwaggerUiConfigParameters; SearchStrategy: all) found beans of type 'org.springdoc.core.properties.SwaggerUiConfigParameters' org.springdoc.core.properties.SwaggerUiConfigParameters (OnBeanCondition)
+
+   SwaggerConfig#swaggerUiHome:
+      Did not match:
+         - @ConditionalOnProperty (springdoc.swagger-ui.use-root-path=true) did not find property 'springdoc.swagger-ui.use-root-path' (OnPropertyCondition)
+
+   SwaggerConfig.SwaggerActuatorWelcomeConfiguration:
+      Did not match:
+         - @ConditionalOnClass did not find required class 'org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping' (OnClassCondition)
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+2025-04-26 20:42:05 - Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2025-04-26 20:42:05 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-26 20:42:05 - Pausing ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:42:05 - Graceful shutdown complete
+2025-04-26 20:42:05 - Stopping ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:42:05 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:42:05 - HikariPool-2 - Shutdown initiated...
+2025-04-26 20:42:05 - HikariPool-2 - Shutdown completed.
+2025-04-26 20:42:05 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 5104 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 20:42:05 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 20:42:05 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-26 20:42:05 - Finished Spring Data repository scanning in 8 ms. Found 1 JPA repository interface.
+2025-04-26 20:42:05 - Tomcat initialized with port 7070 (http)
+2025-04-26 20:42:05 - Initializing ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:42:05 - Starting service [Tomcat]
+2025-04-26 20:42:05 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-26 20:42:05 - Initializing Spring embedded WebApplicationContext
+2025-04-26 20:42:05 - Root WebApplicationContext: initialization completed in 383 ms
+2025-04-26 20:42:05 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-26 20:42:05 - HHH000026: Second-level cache disabled
+2025-04-26 20:42:05 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-26 20:42:05 - HikariPool-3 - Starting...
+2025-04-26 20:42:06 - HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@43dcf75c
+2025-04-26 20:42:06 - HikariPool-3 - Start completed.
+2025-04-26 20:42:06 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-3)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-26 20:42:06 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-26 20:42:06 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:42:06 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-26 20:42:06 - 12 mappings in 'requestMappingHandlerMapping'
+2025-04-26 20:42:06 - Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+2025-04-26 20:42:06 - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-26 20:42:06 - ControllerAdvice beans: 2 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-26 20:42:06 - LiveReload server is running on port 35729
+2025-04-26 20:42:06 - Starting ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:42:06 - Tomcat started on port 7070 (http) with context path '/'
+2025-04-26 20:42:06 - Started IncidentLogApiApplication in 0.887 seconds (process running for 112.209)
+2025-04-26 20:42:06 - Condition evaluation unchanged
+2025-04-26 20:44:15 - Restarting due to 7 class path changes (0 additions, 6 deletions, 1 modification)
+2025-04-26 20:44:15 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-26 20:44:15 - Pausing ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:44:15 - Graceful shutdown complete
+2025-04-26 20:44:15 - Stopping ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:44:15 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:44:15 - HikariPool-3 - Shutdown initiated...
+2025-04-26 20:44:15 - HikariPool-3 - Shutdown completed.
+2025-04-26 20:44:15 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 5104 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 20:44:15 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 20:44:16 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-26 20:44:16 - Finished Spring Data repository scanning in 0 ms. Found 0 JPA repository interfaces.
+2025-04-26 20:44:16 - Tomcat initialized with port 7070 (http)
+2025-04-26 20:44:16 - Initializing ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:44:16 - Starting service [Tomcat]
+2025-04-26 20:44:16 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-26 20:44:16 - Initializing Spring embedded WebApplicationContext
+2025-04-26 20:44:16 - Root WebApplicationContext: initialization completed in 399 ms
+2025-04-26 20:44:16 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-26 20:44:16 - HHH000026: Second-level cache disabled
+2025-04-26 20:44:16 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-26 20:44:16 - HikariPool-4 - Starting...
+2025-04-26 20:44:16 - HikariPool-4 - Added connection com.mysql.cj.jdbc.ConnectionImpl@794c0096
+2025-04-26 20:44:16 - HikariPool-4 - Start completed.
+2025-04-26 20:44:16 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-4)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-26 20:44:16 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-26 20:44:16 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:44:16 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-26 20:44:16 - 6 mappings in 'requestMappingHandlerMapping'
+2025-04-26 20:44:16 - Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+2025-04-26 20:44:16 - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-26 20:44:16 - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-26 20:44:16 - LiveReload server is running on port 35729
+2025-04-26 20:44:16 - Starting ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:44:16 - Tomcat started on port 7070 (http) with context path '/'
+2025-04-26 20:44:16 - Started IncidentLogApiApplication in 0.938 seconds (process running for 242.57)
+2025-04-26 20:44:16 - Condition evaluation unchanged
+2025-04-26 20:45:22 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-04-26 20:45:22 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-26 20:45:22 - Pausing ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:45:22 - Graceful shutdown complete
+2025-04-26 20:45:22 - Stopping ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:45:22 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:45:22 - HikariPool-4 - Shutdown initiated...
+2025-04-26 20:45:22 - HikariPool-4 - Shutdown completed.
+2025-04-26 20:45:22 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 5104 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 20:45:22 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 20:45:22 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-26 20:45:22 - Finished Spring Data repository scanning in 0 ms. Found 0 JPA repository interfaces.
+2025-04-26 20:45:22 - Tomcat initialized with port 7070 (http)
+2025-04-26 20:45:22 - Initializing ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:45:22 - Starting service [Tomcat]
+2025-04-26 20:45:22 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-26 20:45:22 - Initializing Spring embedded WebApplicationContext
+2025-04-26 20:45:22 - Root WebApplicationContext: initialization completed in 441 ms
+2025-04-26 20:45:22 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-26 20:45:22 - HHH000026: Second-level cache disabled
+2025-04-26 20:45:22 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-26 20:45:22 - HikariPool-5 - Starting...
+2025-04-26 20:45:22 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@12860f7a
+2025-04-26 20:45:22 - HikariPool-5 - Start completed.
+2025-04-26 20:45:22 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-5)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-26 20:45:22 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-26 20:45:22 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:45:22 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-26 20:45:22 - 6 mappings in 'requestMappingHandlerMapping'
+2025-04-26 20:45:23 - Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+2025-04-26 20:45:23 - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-26 20:45:23 - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-26 20:45:23 - LiveReload server is running on port 35729
+2025-04-26 20:45:23 - Starting ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:45:23 - Tomcat started on port 7070 (http) with context path '/'
+2025-04-26 20:45:23 - Started IncidentLogApiApplication in 1.002 seconds (process running for 309.105)
+2025-04-26 20:45:23 - Condition evaluation unchanged
+2025-04-26 20:46:14 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-04-26 20:46:14 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-26 20:46:14 - Pausing ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:46:14 - Graceful shutdown complete
+2025-04-26 20:46:14 - Stopping ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:46:14 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:46:14 - HikariPool-5 - Shutdown initiated...
+2025-04-26 20:46:14 - HikariPool-5 - Shutdown completed.
+2025-04-26 20:46:14 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 5104 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 20:46:14 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 20:46:14 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-26 20:46:14 - Finished Spring Data repository scanning in 0 ms. Found 0 JPA repository interfaces.
+2025-04-26 20:46:15 - Tomcat initialized with port 7070 (http)
+2025-04-26 20:46:15 - Initializing ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:46:15 - Starting service [Tomcat]
+2025-04-26 20:46:15 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-26 20:46:15 - Initializing Spring embedded WebApplicationContext
+2025-04-26 20:46:15 - Root WebApplicationContext: initialization completed in 449 ms
+2025-04-26 20:46:15 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-26 20:46:15 - HHH000026: Second-level cache disabled
+2025-04-26 20:46:15 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-26 20:46:15 - HikariPool-6 - Starting...
+2025-04-26 20:46:15 - HikariPool-6 - Added connection com.mysql.cj.jdbc.ConnectionImpl@311aabb5
+2025-04-26 20:46:15 - HikariPool-6 - Start completed.
+2025-04-26 20:46:15 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-6)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-26 20:46:15 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-26 20:46:15 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:46:15 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-26 20:46:15 - 6 mappings in 'requestMappingHandlerMapping'
+2025-04-26 20:46:15 - Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+2025-04-26 20:46:15 - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-26 20:46:15 - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-26 20:46:15 - LiveReload server is running on port 35729
+2025-04-26 20:46:15 - Starting ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:46:15 - Tomcat started on port 7070 (http) with context path '/'
+2025-04-26 20:46:15 - Started IncidentLogApiApplication in 0.886 seconds (process running for 361.379)
+2025-04-26 20:46:15 - Condition evaluation unchanged
+2025-04-26 20:47:31 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-26 20:47:31 - Graceful shutdown complete
+2025-04-26 20:47:31 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:47:31 - HikariPool-6 - Shutdown initiated...
+2025-04-26 20:47:31 - HikariPool-6 - Shutdown completed.
+2025-04-26 20:47:41 - HV000001: Hibernate Validator 7.0.1.Final
+2025-04-26 20:47:41 - Starting IncidentLogApiApplication using Java 23.0.1 with PID 27980 (C:\Users\koti\IdeaProjects\incident-log-api\target\classes started by koti in C:\Users\koti\IdeaProjects\incident-log-api)
+2025-04-26 20:47:41 - No active profile set, falling back to 1 default profile: "default"
+2025-04-26 20:47:41 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-26 20:47:41 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-26 20:47:42 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-26 20:47:42 - Finished Spring Data repository scanning in 40 ms. Found 1 JPA repository interface.
+2025-04-26 20:47:42 - Tomcat initialized with port 7070 (http)
+2025-04-26 20:47:43 - Initializing ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:47:43 - Starting service [Tomcat]
+2025-04-26 20:47:43 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-04-26 20:47:43 - Initializing Spring embedded WebApplicationContext
+2025-04-26 20:47:43 - Root WebApplicationContext: initialization completed in 1293 ms
+2025-04-26 20:47:43 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-26 20:47:43 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-04-26 20:47:43 - HHH000026: Second-level cache disabled
+2025-04-26 20:47:43 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-26 20:47:43 - HikariPool-1 - Starting...
+2025-04-26 20:47:43 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3754c4c
+2025-04-26 20:47:43 - HikariPool-1 - Start completed.
+2025-04-26 20:47:43 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-26 20:47:44 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-26 20:47:44 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:47:45 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-04-26 20:47:45 - 8 mappings in 'requestMappingHandlerMapping'
+2025-04-26 20:47:45 - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-04-26 20:47:45 - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-26 20:47:45 - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-26 20:47:45 - LiveReload server is running on port 35729
+2025-04-26 20:47:45 - Starting ProtocolHandler ["http-nio-7070"]
+2025-04-26 20:47:45 - Tomcat started on port 7070 (http) with context path '/'
+2025-04-26 20:47:45 - Started IncidentLogApiApplication in 4.224 seconds (process running for 5.36)
+2025-04-26 20:47:49 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-26 20:47:49 - Initializing Servlet 'dispatcherServlet'
+2025-04-26 20:47:49 - Detected StandardServletMultipartResolver
+2025-04-26 20:47:49 - Detected AcceptHeaderLocaleResolver
+2025-04-26 20:47:49 - Detected FixedThemeResolver
+2025-04-26 20:47:49 - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@4c5ba650
+2025-04-26 20:47:49 - Detected org.springframework.web.servlet.support.SessionFlashMapManager@59de722a
+2025-04-26 20:47:49 - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-04-26 20:47:49 - Completed initialization in 2 ms
+2025-04-26 20:47:49 - GET "/incidents", parameters={}
+2025-04-26 20:47:49 - Mapped to com.humanchain.incidents.controller.IncidentController#getAllIncidents()
+2025-04-26 20:47:49 - Fetching all incidents
+2025-04-26 20:47:50 - 4 incidents found.
+2025-04-26 20:47:50 - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-04-26 20:47:50 - Writing [[com.humanchain.incidents.model.Incident@4bf3ceb9, com.humanchain.incidents.model.Incident@31e8fad6, (truncated)...]
+2025-04-26 20:47:50 - Completed 200 OK
+2025-04-26 20:47:56 - GET "/incidents/1", parameters={}
+2025-04-26 20:47:56 - Mapped to com.humanchain.incidents.controller.IncidentController#getIncidentById(Long)
+2025-04-26 20:47:56 - Fetching incident with ID 1
+2025-04-26 20:47:56 - Incident with ID 1 found
+2025-04-26 20:47:56 - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-04-26 20:47:56 - Writing [com.humanchain.incidents.model.Incident@5094a450]
+2025-04-26 20:47:56 - Completed 200 OK
+2025-04-26 20:48:06 - DELETE "/incidents/4", parameters={}
+2025-04-26 20:48:06 - Mapped to com.humanchain.incidents.controller.IncidentController#deleteIncident(Long)
+2025-04-26 20:48:06 - Deleting incident with ID 4
+2025-04-26 20:48:06 - Incident with ID 4 successfully deleted
+2025-04-26 20:48:06 - Using 'text/plain', given [*/*] and supported [text/plain, */*, application/json, application/*+json]
+2025-04-26 20:48:06 - Writing ["Incident with ID 4 was successfully deleted"]
+2025-04-26 20:48:06 - Completed 200 OK
+2025-04-26 20:52:53 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-26 20:52:53 - Graceful shutdown complete
+2025-04-26 20:52:53 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-04-26 20:52:53 - HikariPool-1 - Shutdown initiated...
+2025-04-26 20:52:53 - HikariPool-1 - Shutdown completed.
